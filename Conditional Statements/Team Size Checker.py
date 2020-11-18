@@ -1,4 +1,4 @@
-# Chapter 1: Checks if the teams have the same number of players
+# Chapter 1: Checking team sizes
 # Let's use conditionals and list length to check team sizes and decide on the number of rounds left in a game.
 # We'll store the two teams in a list, check if they have the same length,
 # then display the rounds left based on the length.
